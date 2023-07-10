@@ -1,0 +1,5 @@
+Install streamlit
+Install seaborn 
+Install pandas 
+Install numpy 
+Install python 
